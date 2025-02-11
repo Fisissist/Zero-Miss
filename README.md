@@ -117,7 +117,8 @@ If you'd like to contribute to this project, feel free to fork the repository an
 # License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-Acknowledgments
+
+# Acknowledgments
 
 Thanks to the sympy library for providing accurate mathematical functions.
 
@@ -127,8 +128,6 @@ Inspired by the need for precise firearm zeroing calculations.
 
 If you have any questions or feedback, feel free to reach out:
 
-    Your Name: miguel.a.estrada26@gmail.com
+**Email**: miguel.a.estrada26@gmail.com
 
-    GitHub: github.com/Fisissist
-
-Enjoy using Zero Miss! 🎯
+**GitHub**: github.com/Fisissist
